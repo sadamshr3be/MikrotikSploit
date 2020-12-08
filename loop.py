@@ -7,9 +7,9 @@
 # * Date:
 #   28 - 08 - 2019 { Wed 28 Aug 2019 }
 # * Facebook:
-#   https://www.facebook.com/profile.php?id=100005445123759
+#   http://fb.com/mhm.hack
 # * Author:
-#   sadam alsharabi
+#   Hathem Ahmed
 # *******************************************************************
 
 import re
@@ -50,9 +50,9 @@ def timeS():
 def Inf():
 
     print(""" 
-Name        : sadam alsharabi (MHM)
-Facebook    : https://t.me/termuxalsharabi
-Github      : https://github.com/sadamshr3be
+Name        : Hathem Ahmed (MHM)
+Facebook    : https://FB.COM/mhm.hack
+Github      : https://github.com/HathemAhmed
 Version     : v0.1
 info script : this script for Hack Mikrotik Router """)
     input(f"{WOW}\n\n++++++ (Enter) ++++++{N}")

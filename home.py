@@ -6,10 +6,10 @@
 #   v0.1
 # * Date:
 #   28 - 08 - 2019 { Wed 28 Aug 2019 }
-# * facebook:
-#   https://www.facebook.com/profile.php?id=100005445123759
+# * Facebook:
+#   http://fb.com/mhm.hack
 # * Author:
-#   Sadam alsharabi
+#   Hathem Ahmed
 # *******************************************************************
 
 import sys
@@ -35,7 +35,7 @@ class RunScript(object):
                              |          {N}
             {B}6B 53 70 6C 6F 69 74 {N}
                         {F2}Version: 0.1{N}
-    {T}@ Author => https://sadamalsharabi.blogspot.com
+    {T}@ Author => http://FB.com/mhm.hack
 
         """, 1)
 
@@ -56,7 +56,7 @@ class RunScript(object):
                              |          {N}
             {B}6B 53 70 6C 6F 69 74 {N}
                         {F2}Version: 0.1{N}
-    {T}@ Author => https://sadamalsharabi.blogspot.com{N}
+    {T}@ Author => http://FB.com/mhm.hack{N}
 
 
 Use Script:
