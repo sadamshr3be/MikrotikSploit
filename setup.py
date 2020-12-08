@@ -7,9 +7,9 @@
 # * Date:
 #   28 - 08 - 2019 { Wed 28 Aug 2019 }
 # * Facebook:
-#   https://www.facebook.com/profile.php?id=100005445123759
+#   http://fb.com/mhm.hack
 # * Author:
-#   sadam alsharabi
+#   Hathem Ahmed
 # *******************************************************************
 
 from setuptools import setup, find_packages
