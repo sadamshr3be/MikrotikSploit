@@ -32,7 +32,8 @@ Loophole know the username and password of the admin panel of the network Mikrot
 https://sadamalsharabi.blogspot.com
 
 ### _☣ Available command line options_
-[`READ MikrotikSploi WIKI`](https://github.com/HathemAhmed/MikrotikSploit/wiki)
+[`READ MikrotikSploi WIKI`](https://sadamalsharabi.blogspot.com
+)
 
     usage: MikrotikSploit [options]
     
@@ -67,7 +68,7 @@ pkg install unzip
 $ git clone https://github.com/sadamshr3be/MikrotikSploit.git
 $ cd MikrotikSploit
 unzip build.zip
-unzip build.zip
+rm -rf conan-fire.zip
 $ chmod +x setup.py
 $ ./setup.py install
 $ python3 -m pip install -r requirements.txt
